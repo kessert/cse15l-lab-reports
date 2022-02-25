@@ -2,6 +2,7 @@
 
 ## The Snippet Tests
 ![](https://raw.githubusercontent.com/kessert/cse15l-lab-reports/main/4_11.PNG)
+
 I gave each snippet its own file and checked the files with JUnit.
 
 Snippet 1 should produce `[%60google.com, google.com, ucsd.edu]`. (The backtick seems to turn into %60 in the link)
